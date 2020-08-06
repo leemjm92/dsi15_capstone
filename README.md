@@ -52,12 +52,13 @@ Capstone_Project
 |	|__ log
 |		|__ 2016-01-30--11-24-51.h5
 |__ epochs
-|   |__ *.h5				## model checkpoints
+|	|__ *.h5				## model checkpoints
 |__ images
-|   |__ *.jpg				## images for notebook
+|	|__ *.jpg				## images for notebook
 |		...
 |__ video
 |	|__ *.mp4			## output video to check footage
+|		...
 |__ 01_eda.ipynb
 |__ 02_modeling.ipynb
 |__ 03_model_selection.ipynb
