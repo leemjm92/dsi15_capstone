@@ -46,9 +46,9 @@ Although, I was able to predict accurately for majority of the highway driving d
 ```
 Capstone_Project
 |__ images
-|   |__ *.jpg           ## images for notebook
+|   |__ *.jpg					## images for notebook
 |__ epochs
-|   |__ *.h5			## model checkpoints
+|   |__ *.h5				## model checkpoints
 |__ datasets
 |	|__ camera
 |		|__ 2016-01-30--11-24-51.h5
