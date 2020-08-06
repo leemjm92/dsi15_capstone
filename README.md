@@ -45,16 +45,16 @@ Although, I was able to predict accurately for majority of the highway driving d
 
 ```
 Capstone_Project
-|__ images
-|   |__ *.jpg				## images for notebook
-|__ epochs
-|   |__ *.h5				## model checkpoints
 |__ datasets
 |	|__ camera
 |		|__ 2016-01-30--11-24-51.h5
 |		...
 |	|__ log
 |		|__ 2016-01-30--11-24-51.h5
+|__ epochs
+|   |__ *.h5				## model checkpoints
+|__ images
+|   |__ *.jpg				## images for notebook
 |		...
 |__ video
 |	|__ *.mp4			## output video to check footage
