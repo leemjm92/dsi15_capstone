@@ -61,6 +61,7 @@ Capstone_Project
 |__ 01_eda.ipynb
 |__ 02_modeling.ipynb
 |__ 03_model_selection.ipynb
+|__ LICENSE
 |__ README.md
 
 ```
